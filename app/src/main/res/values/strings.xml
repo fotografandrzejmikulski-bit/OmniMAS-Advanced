@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OmniMAS Advanced</string>
+    <string name="accessibility_description">OmniMAS uses accessibility to inspect the visible UI, execute user-authorized actions, and validate task progress.</string>
+</resources>
